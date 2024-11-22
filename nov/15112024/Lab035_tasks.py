@@ -12,4 +12,4 @@ for number in range(1, 100):
     elif number % 3 ==0:
         print("fizz")
     else:
-        print(number)
+        print(number
