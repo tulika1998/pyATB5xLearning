@@ -12,3 +12,11 @@ print(name2)
 """
 
 # this si multiline comment
+
+age = 65
+age+1
+print(age)
+
+age = 65
+age = 65+1
+print(age)
