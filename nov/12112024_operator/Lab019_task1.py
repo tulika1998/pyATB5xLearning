@@ -3,4 +3,4 @@ user_age = int(input("enter your age\n"))
 if user_age>=21:
   print("you can go to the club")
 else:
-    print("no you canot go to the club")
+    print("no you cannot go to the club")
