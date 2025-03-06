@@ -1,4 +1,13 @@
-#Write a program that prints numbers from 1 to 100. However, for multiples of 3, print "Fizz"
-# instead of the number, and for multiples of 5, print "Buzz." For numbers that are multiples
-# of both 3 and 5, print "FizzBuzz."
-
+# write a program  to ask the user which browser he want to run automation.
+Browser_name = input("Enter the Browser name")
+match Browser_name:
+    case "firefox":
+        print("Starting Firefox")
+    case "chrome":
+        print("Executing the Chrome code")
+    case "edge":
+        print("Executing the Edge code")
+    case "safari":
+        print("Executing the Safari")
+    case _:
+        print("Match not found")
