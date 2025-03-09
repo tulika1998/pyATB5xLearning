@@ -3,4 +3,4 @@ def print_mul_arguments(*args):
         print(i)
 
 print_mul_arguments("tulika")
-print_mul_arguments("tulika","aman","rekha"
+print_mul_arguments("tulika","aman","rekha")

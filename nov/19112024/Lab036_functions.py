@@ -8,3 +8,4 @@ def greet():
 #part 2 - call
 greet()
 greet()
+greet()

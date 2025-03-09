@@ -1,13 +1,14 @@
 #user defined
 #1.they cannot return
-#no retuen anf no parameter/no argument
+#no return and no parameter/no argument
 
 def greet():
     print("hello")
 
 greet()
+
 #2. they can return something
-#no retuen type and argument type
+#no return type and argument type
 def greet_by_name(name):
     print("hello,",name)
 
