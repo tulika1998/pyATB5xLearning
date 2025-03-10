@@ -5,7 +5,7 @@ def check_leap_year(year):
     else:
         return False
 
-year = 2019
+year = 2020
 
 if check_leap_year(year):
     print("yes")
