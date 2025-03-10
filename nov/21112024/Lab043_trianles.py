@@ -14,4 +14,4 @@ side2 = float(input("Enter the side2\n"))
 side3 = float(input("Enter the side3\n"))
 
 result = classify_triangle(side1, side2, side3)
-print(f"the result is: {result}"
+print(f"the result is: {result}")
