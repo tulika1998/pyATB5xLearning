@@ -12,4 +12,4 @@ user_age = int(input("enter your age\n"))
 if user_age>18:
   print("you can go ranchi and vote")
 else:
-    print("no you canot go ranchi and vote")
+    print("no you cannot go ranchi and vote")
