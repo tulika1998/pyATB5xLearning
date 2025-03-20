@@ -9,9 +9,9 @@ student_info1 = {
 
 }
 student_info2 = {
-    "name" : "raj",
-    "age" : 20,
-    "role" : "developer",
+    "name" : "amit",
+    "age" : 28,
+    "role" : "ganja",
     "address" : {
         "office address" : "fjkhf",
         "home address" : "hbkjchjdu"
